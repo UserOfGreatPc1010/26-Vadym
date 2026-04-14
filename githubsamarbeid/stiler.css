@@ -1,12 +1,11 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f4; /* Very light grey background */
-    color: #333333;           /* Dark charcoal for text (easier to read than pure black) */
+    background-color: #f4f4f4; 
+    color: #333333;           
     line-height: 1.6;
     margin: 0;
     padding: 20px;
 }
-/* List styling */
 ul {
     list-style: none;
     padding: 0;
@@ -16,5 +15,5 @@ li {
     background: #fafafa;
     margin: 5px 0;
     padding: 10px;
-    border-left: 4px solid #cccccc; /* Grey accent bar */
+    border-left: 4px solid #cccccc; 
 }
